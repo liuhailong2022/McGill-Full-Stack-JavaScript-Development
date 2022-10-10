@@ -4,6 +4,7 @@ Professional Development Certificate in Full Stack JavaScript Development
 
 # Courses
 - YCIT 001 HTML and CSS
+  - McGill Yoga Studio Website
 - YCIT 023 Structure and Interpretation of JavaScript
 - YCIT 025 Reading and Debugging JavaScript
 - YCIT 026 Applied Algorithms in JavaScript
